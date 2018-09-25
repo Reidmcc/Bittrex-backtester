@@ -1,5 +1,5 @@
 # Bittrex-backtester
-Back-tester for multi-currency swing trading on Bittrex cryptocurrency exchange.
+Back-tester for multi-currency swing trading on the Bittrex cryptocurrency exchange.
 
 Simulates trading against N currencies on shared trigger states (contrarian Bollinger band breaks mainly), assuming you trade with all your capital on the first available trigger across currencies. It has *not* been live-tested, use at thy own risk.
 
