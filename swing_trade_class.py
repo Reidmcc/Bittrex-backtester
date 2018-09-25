@@ -1,4 +1,4 @@
-from bittrex import *
+from bittrex_api_wrapper import *
 bitrex_one = Bittrex("[API key]", "[API secret]", api_version=API_V1_1)
 bittrex_two = Bittrex("[API key]", "[API secret]", api_version=API_V2_0)
 # the two versions contained in the wrapper have different available commands; no reason not to use both
